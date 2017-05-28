@@ -1,0 +1,16 @@
+#grid{
+	background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.cell{
+	width: 25px;
+	height: 25px;
+	background-color: #F0FFFF;
+	border: 1px solid #DCDCDC;
+}
+
+.stone{
+	background-color: green;
+}
